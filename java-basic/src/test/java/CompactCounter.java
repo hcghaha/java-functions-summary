@@ -16,6 +16,10 @@ public class CompactCounter {
 
 
     public static void main(String[] args) {
+        boolean b = false;
+        boolean a = true;
+
+
         final CompactCounter counter1 = new CompactCounter();
         System.out.println(counter1.increase());
         System.out.println(counter1.increase());
