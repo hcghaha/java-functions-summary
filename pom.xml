@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
     <module>java-basic</module>
+        <module>java-jvm</module>
     </modules>
 
 </project>
